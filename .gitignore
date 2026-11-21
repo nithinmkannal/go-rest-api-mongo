@@ -1,0 +1,11 @@
+# Local environment settings
+.env
+
+# MongoDB data directory
+data/
+
+# Server binary
+server
+
+*.test
+coverage.out
